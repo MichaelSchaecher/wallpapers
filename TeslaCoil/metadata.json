@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/alexvazonline",
+                "Website": "http://www.alexvazonline.com/",
+                "Name": "Alex Vaz"
+	        }
+	    ],
+	"Id": "Tesla Coil",
+        "License": [
+            {
+                "CC-BY-SA-4.0": "true"
+            }
+        ],
+        "Name": "Tesla Coil"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mschaecher78@gmail.com",
+                "Instagram": "",
+                "Website": "https://howtonebies.com",
+                "Name": "Michael Schaecher"
+	        }
+	    ],
+	"Id": "Large Tree",
+        "License": [
+            {
+                "CC-BY-SA-4.0": "true"
+            }
+        ],
+        "Name": "Large Tree"
+    }
+}

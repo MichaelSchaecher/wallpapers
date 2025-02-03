@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/mart.production",
+                "Website": "",
+                "Name": "MART PRODUCTION"
+	        }
+	    ],
+	"Id": "Colorful Water",
+        "License": [
+            {
+                "CC-BY-SA-4.0": "true"
+            }
+        ],
+        "Name": "Colorful Water"
+    }
+}
